@@ -63,4 +63,9 @@ Buttons styled with borders, padding, and transitions for interactive effects (b
 **Performance:** Optimize images and other assets (image1.jpg referenced in CSS) for faster loading times and a smoother user experience.
 
 
+## 🔗 Links
+- [portfolio]( https://karthik5299.github.io/CODTHECH-Task1//)
+
+
+
 
